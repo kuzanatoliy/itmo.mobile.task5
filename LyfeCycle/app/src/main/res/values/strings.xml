@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LyfeCycle</string>
+    <string name="textViewTitle">App started in the first</string>
+    <string name="action">Click me!</string>
+    <string name="exit">Exit</string>
+</resources>
